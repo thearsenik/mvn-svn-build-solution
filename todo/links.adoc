@@ -1,0 +1,5 @@
+Détecter un changement dans SVN
+http://stackoverflow.com/questions/166491/detect-svn-changes-in-a-bat
+
+Lister les dépendances Maven
+https://grep.codeconsult.ch/2010/07/08/list-all-your-maven-dependencies/
